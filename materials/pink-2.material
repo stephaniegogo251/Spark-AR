@@ -1,0 +1,28 @@
+{
+  "modelName": "colorPaintMaterial",
+  "name": "pink",
+  "identifier": "colorPaintMaterial:3905-0e364000-c0e2-4e8f-bd17-40c5ac8bf5e4",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "backgroundInfluence": 0.7000000000000001,
+  "cullMode": "back",
+  "diffuseTextureName": "colorTexture:21227-0e364000-c0e2-4e8f-bd17-40c5ac8bf5e4",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "importIssues": {},
+  "isDiffuseTextureIdentifierEnabled": true,
+  "paintBrightness": 0.7000000000000001,
+  "readDepth": true,
+  "transparency": 1,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}

@@ -1,0 +1,28 @@
+{
+  "modelName": "colorPaintMaterial",
+  "name": "rain",
+  "identifier": "colorPaintMaterial:11245-68399f4e-88a1-4968-b617-eaed68b4c306",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "backgroundInfluence": 0.7000000000000001,
+  "cullMode": "back",
+  "diffuseTextureName": "texture:12193-68399f4e-88a1-4968-b617-eaed68b4c306",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "importIssues": {},
+  "isDiffuseTextureIdentifierEnabled": true,
+  "paintBrightness": 0.7000000000000001,
+  "readDepth": true,
+  "transparency": 0.5,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}

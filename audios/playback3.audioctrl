@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "playback3",
+  "identifier": "playback_controller_model:22037-0e364000-c0e2-4e8f-bd17-40c5ac8bf5e4",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:21631-0e364000-c0e2-4e8f-bd17-40c5ac8bf5e4"
+}

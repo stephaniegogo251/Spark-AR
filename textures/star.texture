@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "star",
+  "identifier": "texture:13469-5c72c2c2-a08c-4393-8913-961c3e2becec",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "e1005f374e4517a530b0feeb7a99c8fa",
+  "assetLocator": "textures/star.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 377,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 661,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "e1005f374e4517a530b0feeb7a99c8fa",
+      "colorCount": 13917,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.5353694782721032,
+      "pixelsHigh": 377,
+      "pixelsWide": 661
+    }
+  ]
+}

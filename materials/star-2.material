@@ -1,0 +1,27 @@
+{
+  "modelName": "blendedMaterial",
+  "name": "star",
+  "identifier": "blendedMaterial:15241-5c72c2c2-a08c-4393-8913-961c3e2becec",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "blendMode": "Normal",
+  "cullMode": "back",
+  "diffuseTextureName": "texture:13469-5c72c2c2-a08c-4393-8913-961c3e2becec",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "importIssues": {},
+  "isDiffuseTextureIdentifierEnabled": true,
+  "readDepth": true,
+  "transparency": 0.7000000000000001,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}
